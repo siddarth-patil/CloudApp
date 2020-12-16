@@ -31,16 +31,18 @@ The dataset used was published by the user [rgriffin](https://www.kaggle.com/hee
 </details>
 
 <details>
+  <summary> Directory Sturcture </summary>
+  * Dataset - Contains the dataset which was used for this project
+  * Tasks: Parent directory containing the code used for the below tasks.
+    * Height&Weight - An Interactive Line graph for visualizing the height and weight of participants over the year.
+</details>
+
+<details>
   <summary> Task Details </summary>
   We will add explanation soon
 </details>
 
 <details>
   <summary> Tools and Libraries used </summary>
-  We will add explanation soon
-</details>
-
-<details>
-  <summary> Directory Sturcture </summary>
   We will add explanation soon
 </details>
